@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background: #f4f4f4;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    color: #333;
+}
+
+h1 {
+    font-size: 6.2rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.3rem;
+    opacity: 0.7;
+}
+.container {
+    text-align: center;
+}
+
+#cat {
+    width: 32.5px;
+    height: 32.5px;
+    background-image: url("assets/cat.png");
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+
+    /* Positioning for js movement */
+    position: absolute;
+    transform-origin: center;
+    transform: scale(2);
+    bottom: 20px;
+    left: 50%;
+    transform: none;
+}
