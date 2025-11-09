@@ -18,4 +18,7 @@ You can use any pixel cat sprites or small PNGs (e.g. from [OpenGameArt](https:/
 ---
 
 Developer: dacc
+
+---
+
 P.S.: Hit me with ideas if you have any **purr-fectly brilliant** suggetions and i'll start working on em :3
